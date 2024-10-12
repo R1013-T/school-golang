@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("\nHello, Go World!\n")
+	fmt.Println("\nHello, Go World 💙\n")
 
 	var i int = 10 // 整数型
 	printValueAndType("i", i)
